@@ -38,7 +38,7 @@ pip install pandas yfinance matplotlib plotly scikit-learn numpy
   1. Download or clone the repository:
 
      ```bash
-     git clone https://github.com/your-username/stock-market-analysis.git
+     git clone https://github.com/SaMoAAlamdari/stock-market-analysis.git
      ```
   2. Run the provided script to:
 
